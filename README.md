@@ -1,7 +1,7 @@
 # leetcode-journey
 Challenges when I do leetcode and how I solved them
 
-#Roman to Integer Solution
+###Roman to Integer Solution
 ## Core Logic 
 I used a "Reverse Pass" strategy to solve this. By iterating the string backwards, the logic simplifies significantly. 
 
